@@ -163,5 +163,5 @@ while (scoreAttack < 13 && scoreDefense < 13) {
 if (scoreAttack === 13) {
     console.log("Les Attaquants ont gagné !");
 } else {
-    console.log("Les Défenseurs ont gagné !");
+    console.log("Les Défenseurs  ont gagné !");
 }
