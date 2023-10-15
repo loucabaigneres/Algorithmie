@@ -2,8 +2,7 @@
 
 ## 📕 About the project
 
-**L.Y.L** (which stands for "Léo, Yani, Louca") is a 🎓 school project. After learning the basics of Git & GitHub during 2 days, we must now demonstrate through this project our mastery of these two very important elements of coding.
-The project is carried out in front-end only, with native HTML/CSS.
+**Algorithmie** is a 🎓 school project. After learning the basics of algorithm using JavaScript during 3 days, we must now demonstrate through 4 projects our mastery of this very important element of coding.
 
 ## 🎬 Valorant algorithm presentation
 
